@@ -13,7 +13,6 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 https://personal-records-manager.herokuapp.com/
 
 ## 2: Install packages
-cd into the project directory
 run npm install
 
 ## 3: Run project
